@@ -1,0 +1,20 @@
+.sprite {
+	background-image: url('./css_sprites.png');
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.sprite-Chat {
+	width: 200px; height: 200px;
+    background: url('./css_sprites.png') -10px -10px;
+}
+
+.sprite-Ctree {
+	width: 200px; height: 200px;
+    background: url('./css_sprites.png') -230px -10px;
+}
+
+.sprite-snowman {
+    width: 200px; height: 200px;
+    background: url('./css_sprites.png') -10px -230px;
+}
